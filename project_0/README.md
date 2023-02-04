@@ -1,17 +1,18 @@
 # Project 0. Guess the number
 
 ## Table of contents
-[1. Project Description](https://github.com/dariazvonareva/DS-projects/blob/main/README.md#project-description)
-[2. What case are we solving?](https://github.com/dariazvonareva/DS-projects/blob/main/README.md#What-case-are-we-solving)
-[3. Brief information about the date](https://github.com/dariazvonareva/DS-projects/blob/main/README.md#Brief-information-about-the-date)
-[4. Stages of work on the project](https://github.com/dariazvonareva/DS-projects/blob/main/README.md#Stages-of-work-on-the-project)
-[5. Result](https://github.com/dariazvonareva/DS-projects/blob/main/README.md#result)
+[1. Project Description](https://github.com/dariazvonareva/DS-projects/blob/main/README.md#project-description)  
+[2. What case are we solving?](https://github.com/dariazvonareva/DS-projects/blob/main/README.md#What-case-are-we-solving)  
+[3. Brief information about the date](https://github.com/dariazvonareva/DS-projects/blob/main/README.md#Brief-information-about-the-date)  
+[4. Stages of work on the project](https://github.com/dariazvonareva/DS-projects/blob/main/README.md#Stages-of-work-on-the-project)   
+[5. Result](https://github.com/dariazvonareva/DS-projects/blob/main/README.md#result)    
 [6. Conclusions](https://github.com/dariazvonareva/DS-projects/blob/main/README.md#conclusions)
 
 ### Project Description
 Guess the number guessed by the computer in the minimum number of attempts.
 
-:arrow_up[to the table of contents](https://github.com/dariazvonareva/DS-projects/blob/main/README.md#Table-of-contents)
+:arrow_up:[to the table of contents](https://github.com/dariazvonareva/DS-projects/blob/main/project_0/README.md#Table-of=contents)
+
 
 
 ### What case are we solving?
@@ -31,4 +32,4 @@ Learn to write good python code.
 ### Brief information about the date
 ....
 
-:arrow_up[to the table of contents](https://github.com/dariazvonareva/DS-projects/blob/main/README.md#Table-of-contents)
+:arrow_up:[to the table of contents](https://github.com/dariazvonareva/DS-projects/blob/main/README.md#Table-of-contents)
